@@ -1,0 +1,11 @@
+{
+	"metaHumanNames": [
+		"Ava"
+	],
+	"exportToolVersion": "4.1.3-44310392",
+	"exportAssetsKind": [
+		"UE"
+	],
+	"exportQuality": "Cinematic",
+	"exportedAt": "2026.01.03-15.34.52"
+}
