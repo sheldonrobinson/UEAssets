@@ -7,5 +7,5 @@
 		"UE"
 	],
 	"exportQuality": "Cinematic",
-	"exportedAt": "2026.01.03-15.33.27"
+	"exportedAt": "2026.01.04-17.32.15"
 }

@@ -304,13 +304,13 @@
 	{
 		"hair":
 		{
-			"option": "HairShortCornrows",
+			"option": "360Waves",
 			"length": 1,
 			"bUseCustomProperties": true,
 			"melaninAndRedness":
 			{
-				"x": 0.89221556886227549,
-				"y": 0.24666666666666667
+				"x": 1,
+				"y": 0.023952096700668335
 			},
 			"roughness": 0.37000000476837158,
 			"whiteness": 0.20212766528129578,

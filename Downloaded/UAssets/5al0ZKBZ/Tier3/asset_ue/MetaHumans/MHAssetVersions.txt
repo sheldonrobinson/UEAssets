@@ -237,58 +237,6 @@
 			"version": "1.5"
 		},
 		{
-			"path": "MetaHumans/Tar/FemaleHair/GroomBinding/Hair_S_Cornrows_Binding.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Hair/Hair_S_Cornrows_CardsMesh_Group0_LOD0.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Hair/Hair_S_Cornrows_CardsMesh_Group0_LOD1.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Hair/Hair_S_Cornrows_CardsMesh_Group0_LOD2.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Hair/Hair_S_Cornrows_CardsMesh_Group0_LOD3.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Hair/Hair_S_Cornrows_CardsMesh_Group0_LOD4.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Helmets/Hair_S_Cornrows_Helmet_LOD5.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Helmets/Hair_S_Cornrows_Helmet_LOD6.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Helmets/Hair_S_Cornrows_Helmet_LOD7.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Tar/FemaleHair/Hair/Hair_S_Cornrows.uasset",
-			"version": "1.21"
-		},
-		{
-			"path": "MetaHumans/Tar/Materials/MI_Hair.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Tar/Materials/MI_Hair_Helmet.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Tar/Materials/MI_Hair_Cards.uasset",
-			"version": "1.5"
-		},
-		{
 			"path": "MetaHumans/Tar/BP_Tar.uasset",
 			"version": "1.50"
 		},
@@ -975,70 +923,6 @@
 		{
 			"path": "MetaHumans/Common/Shared/Materials/MI_Fabric_Feet_Simplified.uasset",
 			"version": "1.5"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MI_Hair.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/M_hair_v4.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MF_Hair_Color.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MF_Variation.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MF_Hair_ColorBlending.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MF_Hair_SaltAndPeper.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MF_Hair_SecondaryColors.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Textures/T_Black_Linear.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Textures/TilingNoise05.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MF_HairAnisotropic.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MI_Hair_Helmet.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/MI_Hair_Cards.uasset",
-			"version": "1.5"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Helmets/Hair_S_Cornrows_ColorXYDepthGroupID.uasset",
-			"version": "1.4"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Helmets/Hair_S_Cornrows_RootUVSeedCoverage.uasset",
-			"version": "1.2"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Helmets/Hair_S_Cornrows_TangentStrandU.uasset",
-			"version": "1.1"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/HighlightsTextures/HighlightMask_medium.uasset",
-			"version": "1.2"
 		},
 		{
 			"path": "MetaHumans/Common/Face/Face_AnimBP.uasset",
